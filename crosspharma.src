@@ -1,0 +1,12 @@
+# Cross pharmaceutical companies organizations on GitHub
+# Author: Hubert Tournier
+
+#GitHub account|Group|Key=Value ...
+#--------------|-----|-------------
+
+Bioconductor|Bioconductor|r=304 f=223
+openpharma|OpenPharma|r=54 f=121
+PharmaLedger-IMI|PharmaLedger Consortium|r=62
+pharmaverse|pharmaverse|r=45 f=308
+phuse-org|PHUSE|r=47 f=97
+

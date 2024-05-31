@@ -1,0 +1,18 @@
+# Repositories from technological companies on GitHub
+# Author: Hubert Tournier
+
+#GitHub account|Group|Key=Value ...
+#--------------|-----|-------------
+
+# Google DeepMind
+google-deepmind/alphafold|Google DeepMind|
+google-deepmind/alphamissense|Google DeepMind|
+google-deepmind/nuclease_design|Google DeepMind|
+
+# Meta
+facebookresearch/esm|Meta|
+facebookresearch/fastMRI|Meta|
+
+# Tencent
+tencent-ailab/DrugOOD|Tencent|
+tencent-ailab/grover|Tencent|
