@@ -4,15 +4,49 @@
 #GitHub account|Group|Key=Value ...
 #--------------|-----|-------------
 
+# Alibaba
+
+# Amazon
+aws-samples/aws-batch-genomics|Amazon|s=199
+aws-samples/aws-genomics-workflows|Amazon|s=140
+aws-samples/aws-healthcare-lifescience-ai-ml-sample-notebooks|Amazon|s=79
+aws-samples/amazon-omics-tutorials|Amazon|s=52
+aws-samples/aws-healthimaging-samples|Amazon|s=43
+aws-samples/amazon-healthlake-dicom-extension|Amazon|s=2
+
+# Apple
+
+# Baidu
+PaddlePaddle/PaddleHelix|Baidu|
+baidu-research/NCRF|Baidu|
+baidu-research/GPN|Baidu|
+
+# Google
+
 # Google DeepMind
 google-deepmind/alphafold|Google DeepMind|
 google-deepmind/alphamissense|Google DeepMind|
 google-deepmind/nuclease_design|Google DeepMind|
 
-# Meta
+# Meta (ex Facebook)
 facebookresearch/esm|Meta|
 facebookresearch/fastMRI|Meta|
+# Chan Zuckerberg Initiative
+# (many other repos of interest there)
+chanzuckerberg/cellxgene|Chan Zuckerberg Initiative|
+chanzuckerberg/MedMentions|Chan Zuckerberg Initiative|
+
+# Microsoft
+microsoft/station-b-libraries|Microsoft|
+microsoft/zero-shot-scfoundation|Microsoft|
+microsoft/Genomics-Quickstart|Microsoft|
+microsoft/LLM4ScientificDiscovery|Microsoft|
+Microsoft/BioModelAnalyzer|Microsoft|
+Azure/Bio-Compliancy|Microsoft|
 
 # Tencent
 tencent-ailab/DrugOOD|Tencent|
 tencent-ailab/grover|Tencent|
+
+# Xiaomi
+

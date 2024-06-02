@@ -4,19 +4,21 @@
 <!--topgh:source id="life_science" file="biotech.src"-->
 <!--topgh:source id="life_science" file="research.src"-->
 <!--topgh:source id="life_science" file="tech.src"-->
+<!--topgh:source id="life_science" file="community.src"-->
 <!--topgh:source id="life_science" file="individual.src"-->
 <!--topgh:destination file="Results/README.md" format="MD" page1_in_root=True-->
+[![Servier Contributed](https://raw.githubusercontent.com/servierhub/.github/main/badges/contributed.svg)](https://github.com/ServierHub/)
 # Top life sciences open source software
 This is an automatically generated[^1] **ranked list** of [open source](https://opensource.org/osd) software from
 [pharmaceutical companies](https://en.wikipedia.org/wiki/List_of_pharmaceutical_companies) and cross organizations,
 [biotechnology companies](https://en.wikipedia.org/wiki/Category:Biotechnology_companies),
 research institutes,
-individuals,
+open source communities and individuals,
 plus some life-science software from technological companies.
 
-It's made from a **curated** list of [GitHub accounts](Results/SOURCES.md), and will be periodically refreshed from these sources' repositories.
+It's made from a **curated** list of [GitHub accounts](SOURCES.md), and will be periodically refreshed from these sources' repositories.
 
-You can also focus on [what has been updated lately](Results/NEW.md).
+You can also focus on [what has been updated lately](NEW.md).
 
 ## Ranked by starred repositories
 > [!NOTE]

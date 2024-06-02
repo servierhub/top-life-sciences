@@ -17,9 +17,25 @@ EBIBioStudies|European Bioinformatics Institute|r=28
 EMBL-EBI-GCA|European Bioinformatics Institute|r=17
 #EMBL-EBI|European Bioinformatics Institute|f=5
 
+# Heng Li lab
+hlilab|Heng Li lab (Dana Farber Cancer Institute & Harvard Medical School)|r=24 f=92
+lh3|Heng Li lab (Dana Farber Cancer Institute & Harvard Medical School)|r=117
+haowenz/chromap|Heng Li lab (Dana Farber Cancer Institute & Harvard Medical School)|s=183
+chhylp123/hifiasm|Heng Li lab (Dana Farber Cancer Institute & Harvard Medical School)|s=488
+xfengnefx/hifiasm-meta|Heng Li lab (Dana Farber Cancer Institute & Harvard Medical School)|s=58
+
+# MilaGraph research group at Mila-Quebec AI Institute
+DeepGraphLearning/torchdrug|MilaGraph research group at Mila-Quebec AI Institute|
+DeepGraphLearning/GearNet|MilaGraph research group at Mila-Quebec AI Institute|
+DeepGraphLearning/ConfGF|MilaGraph research group at Mila-Quebec AI Institute|
+DeepGraphLearning/ProtST|MilaGraph research group at Mila-Quebec AI Institute|
+DeepGraphLearning/DiffPack|MilaGraph research group at Mila-Quebec AI Institute|
+DeepGraphLearning/ESM-GearNet|MilaGraph research group at Mila-Quebec AI Institute|
+
 # Other
 elolab|Elo Lab|r=30 f=8
 evo-design|Laboratory of Evolutionary Design|r=2 f=48
+invesalius/invesalius3|Centro de Tecnologia da Informação Renato Archer (CTI)|
 neurogenomics|Neurogenomics Lab (Imperial College London)|r=77 f=48
 ome|Open Microscopy Environment|r=337 f=128
 opentargets|Open Targets|r=64 f=78

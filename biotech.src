@@ -4,9 +4,24 @@
 #GitHub account|Group|Key=Value ...
 #--------------|-----|-------------
 
+# Absci
+AbSciBio|Absci|r=5
+
+# Acellera
+Acellera|Acellera|r=28 f=29
+
+# Aifred Health
+Aifred-Health|Aifred Health|r=6 f=2
+
 # AlQuraishi Laboratory
 # (OpenFold)
 aqlaboratory|AlQuraishi Laboratory|r=11 f=170
+
+# Atomwise
+AtomwiseInc|Atomwise|r=1 f=2
+
+# BenevolentAI
+benevolentAI|BenevolentAI|r=14
 
 # Bioptimus
 # bioptimus|Bioptimus|
@@ -14,11 +29,53 @@ aqlaboratory|AlQuraishi Laboratory|r=11 f=170
 # Calico
 calico|Calico|r=39 f=77
 
+# Converge Bio
+#ConvergeBio|ConvergeBio|
+
+# Cyclica
+cyclica|Cyclica|r=12 f=4
+
+# Deep Genomics
+deepgenomics|Deep Genomics|r=10 f=21
+
+# Enveda Biosciences
+enveda|Enveda Biosciences|r=22 f=27
+
+# Exscientia
+Exscientia|Exscientia|r=12 f=35
+
+# healx
+healx|healx|r=34 f=12
+
+# Insilico Medicine
+insilicomedicine|Insilico Medicine|r=13 f=55
+
+# Insitro
+insitro|Insitro|r=8 f=40
+
+# Intellia Therapeutics
+Intellia|Intellia|r=8 f=7
+
 # Isomorphic Labs
-# (private unfortunately)
+# (private unfortunately...)
 #isomorphiclabs|Isomorphic Labs|f=83
 
 # Owkin
-owkin|Owkin|r=39 f=148
+owkin|Owkin|r=39 f=152
 #owkin-admin-tech-github|Owkin|
+
+# PathAI
+Path-AI|PathAI|r=11 f=22
+
+# Recursion
+recursionpharma|Recursion|r=29 f=88
+
+# Shrödinger
+schrodinger|Shrödinger|r=106 f=237
+
+# Turbine
+turbine-ai|Turbine|r=2 f=5
+
+# VantAI
+aivant|VantAI|r=2 f=28
 

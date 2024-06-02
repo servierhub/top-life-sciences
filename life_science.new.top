@@ -4,19 +4,21 @@
 <!--topgh:source id="life_science" file="biotech.src"-->
 <!--topgh:source id="life_science" file="research.src"-->
 <!--topgh:source id="life_science" file="tech.src"-->
+<!--topgh:source id="life_science" file="community.src"-->
 <!--topgh:source id="life_science" file="individual.src"-->
 <!--topgh:destination file="Results/NEW.md" format="MD"-->
+[![Servier Contributed](https://raw.githubusercontent.com/servierhub/.github/main/badges/contributed.svg)](https://github.com/ServierHub/)
 # What's new in life sciences open source software
 This is an automatically generated[^1] list of recently updated [open source](https://opensource.org/osd) software from
 [pharmaceutical companies](https://en.wikipedia.org/wiki/List_of_pharmaceutical_companies) and cross organizations,
 [biotechnology companies](https://en.wikipedia.org/wiki/Category:Biotechnology_companies),
 research institutes,
-individuals,
+open source communities and individuals,
 plus some life-science software from technological companies.
 
-It's made from a **curated** list of [GitHub accounts](Results/SOURCES.md), and will be periodically refreshed from these sources' repositories.
+It's made from a **curated** list of [GitHub accounts](SOURCES.md), and will be periodically refreshed from these sources' repositories.
 
-You can also access the [full listing](README.md).
+You can also access the [full listing](/README.md).
 
 ## Sorted by last update
 Taking the 200 last ones.
@@ -28,6 +30,10 @@ Taking the 200 last ones.
 > <img src="https://github.com/HubTou/topgh/blob/main/icons/code.png"> **main programming language**<br>
 > <img src="https://github.com/HubTou/topgh/blob/main/icons/license.png"> **license**<br>
 > <img src="https://github.com/HubTou/topgh/blob/main/icons/last.png"> **last update date & time**<br>
+
+> [!WARNING]
+> *last updated* date & time is not available for direct repositories links in sources.
+> In these cases we use *last release date* if available or the [UNIX epoch](https://en.wikipedia.org/wiki/Unix_time) if not...
 
 <!--topgh:top.repositories.1 source="life_science" order_by="last_updated" max_items=200-->
 
