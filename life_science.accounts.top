@@ -31,7 +31,7 @@ This listing gives you access to all GitHub accounts used in this survey:
 
 > [!NOTE]
 > **Repos** includes forked repositories but excludes ".github" or account namesake ones.<br>
-> **followers** accumulates accounts followers whether they are unique or not.
+> **followers** accumulates accounts followers (or repositories watchers) whether they are unique or not.
 
 <!--topgh:top.accounts.1 source="life_science" order_by="stars" show_accounts=True-->
 

@@ -21,6 +21,9 @@ PaddlePaddle/PaddleHelix|Baidu|
 baidu-research/NCRF|Baidu|
 baidu-research/GPN|Baidu|
 
+# Flax
+flaxsearch/BioSolr|Flax|s=76
+
 # Google
 
 # Google DeepMind
@@ -41,7 +44,7 @@ microsoft/station-b-libraries|Microsoft|
 microsoft/zero-shot-scfoundation|Microsoft|
 microsoft/Genomics-Quickstart|Microsoft|
 microsoft/LLM4ScientificDiscovery|Microsoft|
-Microsoft/BioModelAnalyzer|Microsoft|
+microsoft/BioModelAnalyzer|Microsoft|
 Azure/Bio-Compliancy|Microsoft|
 
 # Tencent

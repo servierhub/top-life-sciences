@@ -113,6 +113,7 @@ rdkit|Novartis|r=38 f=292
 
 # Novo Nordisk
 biosustain|Novo Nordisk|r=100 f=40
+NovoNordisk-OpenSource|Novo Nordisk|r=26
 novonordisk-research|Novo Nordisk|r=13
 nn-dma|Novo Nordisk|r=11
 cbmr-data|Novo Nordisk|r=5
