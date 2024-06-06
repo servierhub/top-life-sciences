@@ -25,6 +25,8 @@ baidu-research/GPN|Baidu|
 flaxsearch/BioSolr|Flax|s=76
 
 # Google
+google/deepvariant|Google|s=3100 t=12
+google/nucleus|Google|s=778 t=4
 
 # Google DeepMind
 google-deepmind/alphafold|Google DeepMind|

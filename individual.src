@@ -4,17 +4,20 @@
 #GitHub account|Group|Key=Value ...
 #--------------|-----|-------------
 
-# Frank Koopmans
-# (Mass Spectrometry Downstream Analysis Pipeline - MS-DAP)
+# Frank Koopmans (Mass Spectrometry Downstream Analysis Pipeline - MS-DAP)
 ftwkoopmans|Frank Koopmans|r=2 f=5
 
-# Geyan Ye (from Tencent AI Lab)
+# Geyan Ye
 blazerye/DrugAssist|Geyan Ye|
 
-# Nicolas Roduit
-# (Weasis)
+# Nicolas Roduit (Weasis)
 nroduit/Weasis|Nicolas Roduit|
 
-# Shengchao Liu
-# (ChatDrug)
+# Samuel Lampa (SciPipe)
+scipipe/scipipe|Samuel Lampa|s=1100 t=12
+
+# Shengchao Liu (ChatDrug)
 chao1224|Shengchao Liu|r=106 f=180
+
+# Wei Shen (seqkit)
+shenwei356|Wei Shen|r=111 f=1200

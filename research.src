@@ -4,6 +4,18 @@
 #GitHub account|Group|Key=Value ...
 #--------------|-----|-------------
 
+allenai/scispacy|Allen Institute for AI|s=1600 t=6
+Benson-Genomics-Lab|Benson Genomics Lab|r=4
+
+# Broad Institute of MIT and Harvard
+broadinstitute/gatk|Broad Institute|s=1600 t=9
+broadinstitute/cromwell|Broad Institute|s=963 t=13
+broadinstitute/picard|Broad Institute|s=944 t=0
+broadinstitute/infercnv|Broad Institute|s=520 t=0
+
+deepchem|DeepChem project|r=19
+elolab|Elo Lab|r=30 f=8
+
 # European Molecular Biology Laboratory (EMBL) - European Bioinformatics Institute (EBI)
 ebi-gene-expression-group|European Bioinformatics Institute|r=178
 EBI-Metagenomics|European Bioinformatics Institute|r=157 f=64
@@ -17,29 +29,34 @@ EBIBioStudies|European Bioinformatics Institute|r=28
 EMBL-EBI-GCA|European Bioinformatics Institute|r=17
 #EMBL-EBI|European Bioinformatics Institute|f=5
 
-# Heng Li lab
-hlilab|Heng Li lab (Dana Farber Cancer Institute & Harvard Medical School)|r=24 f=92
-lh3|Heng Li lab (Dana Farber Cancer Institute & Harvard Medical School)|r=117
-haowenz/chromap|Heng Li lab (Dana Farber Cancer Institute & Harvard Medical School)|s=183
-chhylp123/hifiasm|Heng Li lab (Dana Farber Cancer Institute & Harvard Medical School)|s=488
-xfengnefx/hifiasm-meta|Heng Li lab (Dana Farber Cancer Institute & Harvard Medical School)|s=58
-
-# MilaGraph research group at Mila-Quebec AI Institute
-DeepGraphLearning/torchdrug|MilaGraph research group at Mila-Quebec AI Institute|
-DeepGraphLearning/GearNet|MilaGraph research group at Mila-Quebec AI Institute|
-DeepGraphLearning/ConfGF|MilaGraph research group at Mila-Quebec AI Institute|
-DeepGraphLearning/ProtST|MilaGraph research group at Mila-Quebec AI Institute|
-DeepGraphLearning/DiffPack|MilaGraph research group at Mila-Quebec AI Institute|
-DeepGraphLearning/ESM-GearNet|MilaGraph research group at Mila-Quebec AI Institute|
-
-# Other
-Benson-Genomics-Lab|Benson Genomics Lab|r=4
-deepchem|DeepChem project|r=19
-elolab|Elo Lab|r=30 f=8
 evo-design|Laboratory of Evolutionary Design|r=2 f=48
+
+# Greene Laboratory at the University of Colorado Anschutz
+greenelab/deep-review|Greene Laboratory|s=1200 t=6
+greenelab/tybalt|Greene Laboratory|s=159 t=11
+greenelab/pancancer|Greene Laboratory|s=119 t=10
+greenelab/BioBombe|Greene Laboratory|s=63 t=9
+
+# Heng Li lab
+hlilab|Heng Li lab|r=24 f=92
+lh3|Heng Li lab|r=117
+haowenz/chromap|Heng Li lab|s=183
+chhylp123/hifiasm|Heng Li lab|s=488
+xfengnefx/hifiasm-meta|Heng Li lab|s=58
+
 hoelzer-lab|Hoelzer Bioinformatics Lab|r=11
 invesalius/invesalius3|Centro de Tecnologia da Informação Renato Archer (CTI)|
-neurogenomics|Neurogenomics Lab (Imperial College London)|r=77 f=48
+
+# MilaGraph research group at Mila-Quebec AI Institute
+DeepGraphLearning/torchdrug|Mila-Quebec AI Institute|
+DeepGraphLearning/GearNet|Mila-Quebec AI Institute|
+DeepGraphLearning/ConfGF|Mila-Quebec AI Institute|
+DeepGraphLearning/ProtST|Mila-Quebec AI Institute|
+DeepGraphLearning/DiffPack|Mila-Quebec AI Institute|
+DeepGraphLearning/ESM-GearNet|Mila-Quebec AI Institute|
+
+neurogenomics|Neurogenomics Lab|r=77 f=48
 ome|Open Microscopy Environment|r=337 f=128
 opentargets|Open Targets|r=64 f=78
-technion-cs-nlp/BiologicalTokenizers|Technion (Israel Institute of Technology)|
+soedinglab|Söding Lab|r=51 f=136
+technion-cs-nlp/BiologicalTokenizers|Technion|

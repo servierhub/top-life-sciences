@@ -4,7 +4,17 @@
 #GitHub account|Group|Key=Value ...
 #--------------|-----|-------------
 
-dcm4che/dcm4che|dcm4che community|
+bigdatagenomics|Big Data Genomics project|r=23 f=17
+bioconda/bioconda-recipes|The Bioconda Team|s=1600 t=4
+biopython/biopython|Biopython Project|s=4200 t=9
+dcm4che/dcm4che|dcm4che community|s=1200 t=0
+galaxyproject/galaxy|Galaxy Community|s=1300 t=11
+hail-is/hail|The Hail team|s=945 t=8
+MultiQC/MultiQC|Seqera Labs|s=1200 t=11
+OBF|Open Bioinformatics Foundation|r=14 f=81
+OpenGene|Open Source Genomics Toolbox|r=25
 samtools|Samtools organisation|r=15 f=207
-Slicer/Slicer|Slicer Community|
+scverse|scverse community|r=43 f=779
+Slicer/Slicer|Slicer Community|s=1500 t=20
+vgteam/vg|VG Team|s=1100 t=5
 
