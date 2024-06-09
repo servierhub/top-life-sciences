@@ -18,7 +18,8 @@ plus some life-science software from technological companies.
 
 It's made from a **curated** list of [GitHub accounts](SOURCES.md), and will be periodically refreshed from these sources' repositories.
 
-You can also access the [full listing](/README.md).
+You can also access the [ranked listing of open source software](/README.md) they share
+and [which topics are covered](TOPICS.md) by these software.
 
 ## Sorted by last update
 Taking the 200 last ones.
@@ -37,5 +38,4 @@ Taking the 200 last ones.
 
 <!--topgh:top.repositories.1 source="life_science" order_by="last_updated" max_items=200-->
 
-[^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on 
-<!--topgh:date-->
+[^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on <!--topgh:date-->

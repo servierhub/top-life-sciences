@@ -16,9 +16,10 @@ research institutes,
 open source communities and individuals,
 plus some life-science software from technological companies.
 
-It's made from a **curated** list of [GitHub accounts](SOURCES.md), and will be periodically refreshed from these sources' repositories.
+It's made from a **curated** list of [GitHub accounts](<!--topgh:insert_if_page1 text="Results/"-->SOURCES.md), and will be periodically refreshed from these sources' repositories.
 
-You can also focus on [what has been updated lately](NEW.md) or [which topics are covered](TOPICS.md) and explore new software from there.
+You can also access [what they have updated lately](<!--topgh:insert_if_page1 text="Results/"-->NEW.md)
+and [which topics are covered](<!--topgh:insert_if_page1 text="Results/"-->TOPICS.md) by these software.
 
 ## Ranked by starred repositories
 > [!NOTE]
@@ -31,5 +32,4 @@ You can also focus on [what has been updated lately](NEW.md) or [which topics ar
 
 <!--topgh:top.repositories.1 source="life_science" order_by="stargazers_count" page_items=200-->
 
-[^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on 
-<!--topgh:date-->
+[^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on <!--topgh:date-->

@@ -8,7 +8,7 @@
 <!--topgh:source id="life_science" file="individual.src"-->
 <!--topgh:destination file="Results/SOURCES.md" format="MD"-->
 [![Servier Contributed](https://raw.githubusercontent.com/servierhub/.github/main/badges/contributed.svg)](https://github.com/ServierHub/)
-# Top life sciences contributors on GitHub
+# Top life sciences open source contributors on GitHub
 This is an automatically generated[^1] list of life sciences [open source](https://opensource.org/osd) software contributors including
 [pharmaceutical companies](https://en.wikipedia.org/wiki/List_of_pharmaceutical_companies) and cross organizations,
 [biotechnology companies](https://en.wikipedia.org/wiki/Category:Biotechnology_companies),
@@ -17,7 +17,9 @@ open source communities and individuals,
 plus some life sciences software from technological companies.
 It will be periodically refreshed from the following GitHub accounts.
 
-You can also access the [ranked listing of open source software they share](/README.md) or [what they have updated lately](NEW.md).
+You can also access the [ranked listing of open source software](/README.md) they share,
+[what they have updated lately](NEW.md)
+and [which topics are covered](TOPICS.md) by these software.
 
 ## Contributors ranked by starred repositories with all details
 This listing gives you access to all GitHub accounts used in this survey:
@@ -35,5 +37,4 @@ This listing gives you access to all GitHub accounts used in this survey:
 
 <!--topgh:top.accounts.1 source="life_science" order_by="stars" show_accounts=True-->
 
-[^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on 
-<!--topgh:date-->
+[^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on <!--topgh:date-->
