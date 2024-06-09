@@ -21,7 +21,7 @@ It's made from a **curated** list of [GitHub accounts](SOURCES.md), and will be 
 You can also access the [ranked listing of open source software](/README.md) they share
 and [which topics are covered](TOPICS.md) by these software.
 
-## Sorted by last update
+## Sorted by last update till 2024-06-09
 Taking the 200 last ones.
 
 > [!NOTE]

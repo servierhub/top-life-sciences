@@ -18,6 +18,8 @@ plus some life-science software from technological companies.
 
 It's made from a **curated** list of [GitHub accounts](SOURCES.md), and will be periodically refreshed from these sources' repositories.
 
+Unleash [serendipity](https://en.wikipedia.org/wiki/Serendipity) to discover new software from the accounts and repositories we selected!
+
 You can also access the [ranked listing of open source software](/README.md) they share
 and [what they have updated lately](NEW.md).
 

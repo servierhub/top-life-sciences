@@ -1,11 +1,11 @@
 <!--author="Hubert Tournier"-->
-<!--topgh:source id="life_science" file="crosspharma.src"-->
-<!--topgh:source id="life_science" file="pharma.src"-->
-<!--topgh:source id="life_science" file="biotech.src"-->
-<!--topgh:source id="life_science" file="research.src"-->
-<!--topgh:source id="life_science" file="tech.src"-->
-<!--topgh:source id="life_science" file="community.src"-->
-<!--topgh:source id="life_science" file="individual.src"-->
+<!--topgh:source id="life_science" file="Sources/crosspharma.src"-->
+<!--topgh:source id="life_science" file="Sources/pharma.src"-->
+<!--topgh:source id="life_science" file="Sources/biotech.src"-->
+<!--topgh:source id="life_science" file="Sources/research.src"-->
+<!--topgh:source id="life_science" file="Sources/tech.src"-->
+<!--topgh:source id="life_science" file="Sources/community.src"-->
+<!--topgh:source id="life_science" file="Sources/individual.src"-->
 <!--topgh:destination file="Results/NEW.md" format="MD"-->
 [![Servier Contributed](https://raw.githubusercontent.com/servierhub/.github/main/badges/contributed.svg)](https://github.com/ServierHub/)
 # What's new in life sciences open source software
@@ -21,7 +21,7 @@ It's made from a **curated** list of [GitHub accounts](SOURCES.md), and will be 
 You can also access the [ranked listing of open source software](/README.md) they share
 and [which topics are covered](TOPICS.md) by these software.
 
-## Sorted by last update
+## Sorted by last update till <!--topgh:date-->
 Taking the 200 last ones.
 
 > [!NOTE]

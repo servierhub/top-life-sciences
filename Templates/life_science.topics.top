@@ -1,11 +1,11 @@
 <!--author="Hubert Tournier"-->
-<!--topgh:source id="life_science" file="crosspharma.src"-->
-<!--topgh:source id="life_science" file="pharma.src"-->
-<!--topgh:source id="life_science" file="biotech.src"-->
-<!--topgh:source id="life_science" file="research.src"-->
-<!--topgh:source id="life_science" file="tech.src"-->
-<!--topgh:source id="life_science" file="community.src"-->
-<!--topgh:source id="life_science" file="individual.src"-->
+<!--topgh:source id="life_science" file="Sources/crosspharma.src"-->
+<!--topgh:source id="life_science" file="Sources/pharma.src"-->
+<!--topgh:source id="life_science" file="Sources/biotech.src"-->
+<!--topgh:source id="life_science" file="Sources/research.src"-->
+<!--topgh:source id="life_science" file="Sources/tech.src"-->
+<!--topgh:source id="life_science" file="Sources/community.src"-->
+<!--topgh:source id="life_science" file="Sources/individual.src"-->
 <!--topgh:destination file="Results/TOPICS.md" format="MD"-->
 [![Servier Contributed](https://raw.githubusercontent.com/servierhub/.github/main/badges/contributed.svg)](https://github.com/ServierHub/)
 # Which topics are covered by life sciences open source software
@@ -17,6 +17,8 @@ open source communities and individuals,
 plus some life-science software from technological companies.
 
 It's made from a **curated** list of [GitHub accounts](SOURCES.md), and will be periodically refreshed from these sources' repositories.
+
+Unleash [serendipity](https://en.wikipedia.org/wiki/Serendipity) to discover new software from the accounts and repositories we selected!
 
 You can also access the [ranked listing of open source software](/README.md) they share
 and [what they have updated lately](NEW.md).
